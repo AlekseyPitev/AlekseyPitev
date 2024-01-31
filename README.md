@@ -5,11 +5,11 @@
 
 Вот некоторые мои проекты:
 
-| Название                   | Описание                                                                                           | Стек                                 |
+| Название | Описание | Стек |
 |----------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------|
-| SmokingTrouble | ноутбук соревнования на Kaggle: ML-задача классификации на предсказание курильщиков по клиническим показаниям |python, pandas, catboost, sklearn, matplotlib | 
-| First-price-prediction     | ноутбук соревнования на Kaggle: ML-задача регрессии на предсказание цен на недвижимость в Мельбурне| python, pandas, catboost, matplotlib |
-| rateam_loader              | Загрузчик данных с сайта rate.am в excel-файл                                                      | python, pandas, bs4                  |
+| SmokingTrouble | ноутбук соревнования на Kaggle: ML-задача классификации на предсказание курильщиков по клиническим показаниям |python: pandas, catboost, sklearn, matplotlib | 
+| First-price-prediction | ноутбук соревнования на Kaggle: ML-задача регрессии на предсказание цен на недвижимость в Мельбурне| python: pandas, catboost, matplotlib |
+| rateam_loader | Загрузчик данных с сайта rate.am в excel-файл | python: pandas, bs4 |
 
 
 <!--
