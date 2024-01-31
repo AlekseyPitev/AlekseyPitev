@@ -1,7 +1,7 @@
 <h3 align="center">Привет, я <a href="https://t.me/AlexeyPitev" target="_blank">Алексей</a> 👋
 
 
-Занимаюсь исследованием и анализом данных
+ - Занимаюсь исследованием и анализом данных
 <!--
 **AlekseyPitev/AlekseyPitev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
