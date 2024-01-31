@@ -1,4 +1,4 @@
-<h3 align="center">Привет, я <a href="https://t.me/AlexeyPitev" target="_blank">Алексей</a> 👋
+<h3 align="center">Привет, я <a href="https://t.me/AlexeyPitev" target="_blank">Алексей</a> 👋</h3>
 
 
  - Занимаюсь исследованием и анализом данных
