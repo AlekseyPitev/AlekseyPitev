@@ -11,7 +11,8 @@
 | [First-price-prediction](https://github.com/AlekseyPitev/SmokingTrouble) | ноутбук соревнования на Kaggle: ML-задача регрессии на предсказание цен на недвижимость в Мельбурне| python: pandas, catboost, matplotlib |
 | [rateam_loader](https://github.com/AlekseyPitev/rateam_loader) | Загрузчик данных с сайта rate.am в excel-файл | python: pandas, bs4 |
 
-Закончил курс "Аналитик данных" платформы Karpov Courses, в рамках которого работал с ClickHause, JupiterHub, AirFlow, Redash, Tableau, использовал Git для передачи фалов проектов. Также окончил ряд online курсов. Высшее образование - Санкт-Петербургский государственный инженерно-экономический университет, по специальности математические методы в экономике и аспирантура там же.
+Закончил курс "Аналитик данных" платформы Karpov Courses, в рамках которого работал с ClickHause, JupiterHub, AirFlow, Redash, Tableau, использовал Git для передачи фалов проектов. Также окончил ряд online курсов. [Список сертификатов](https://github.com/AlekseyPitev/Certificates)  
+Высшее образование - Санкт-Петербургский государственный инженерно-экономический университет, по специальности математические методы в экономике и аспирантура там же.
 
 <!--
 **AlekseyPitev/AlekseyPitev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
