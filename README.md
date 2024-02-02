@@ -23,11 +23,13 @@
 - Git
 - Excel
 
+
+  
+<!--
 - ![Python](python.svg) Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
 - ![Git](git.svg) Git
 - ![Excel](eexcel.svg) Excel
-  
-<!--
+
 - ![Python](python_icon.png) Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
 - ![SQL](sql_icon.png) SQL (MySQL, PostgreSQL)
 - ![AirFlow]() AirFlow
