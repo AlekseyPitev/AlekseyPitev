@@ -23,6 +23,10 @@
 - Git
 - Excel
 
+- ![Python](python_icon.png) Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
+- ![Git](git_icon.png) Git
+- ![Excel](excel_icon.png) Excel
+  
 <!--
 - ![Python](python_icon.png) Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
 - ![SQL](sql_icon.png) SQL (MySQL, PostgreSQL)
