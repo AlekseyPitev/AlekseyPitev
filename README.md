@@ -16,14 +16,20 @@
 Высшее образование - Санкт-Петербургский государственный инженерно-экономический университет, по специальности математические методы в экономике и аспирантура там же.
 
 ### Мой стек
+- Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
+- SQL (MySQL, PostgreSQL)
+- AirFlow
+- ReDash, Tableau
+- Git
+- Excel
+
+<!--
 - ![Python](python_icon.png) Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
 - ![SQL](sql_icon.png) SQL (MySQL, PostgreSQL)
 - ![AirFlow]() AirFlow
 - ReDash, Tableau
 - ![Git](git_icon.png) Git
 - ![Excel](excel_icon.png) Excel
-
-<!--
 **AlekseyPitev/AlekseyPitev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
