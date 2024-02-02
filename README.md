@@ -15,6 +15,14 @@
 Закончил курс "Аналитик данных" платформы Karpov Courses, в рамках которого работал с ClickHause, JupiterHub, AirFlow, Redash, Tableau, использовал Git для передачи фалов проектов. Также окончил ряд online курсов, [список сертификатов - здесь](https://github.com/AlekseyPitev/Certificates)  
 Высшее образование - Санкт-Петербургский государственный инженерно-экономический университет, по специальности математические методы в экономике и аспирантура там же.
 
+### Мой стек
+- Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
+- SQL (MySQL, PostgreSQL)
+- AirFlow
+- ReDash, Tableau
+- Git
+- Excel
+
 <!--
 **AlekseyPitev/AlekseyPitev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
