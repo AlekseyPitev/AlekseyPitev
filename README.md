@@ -23,12 +23,14 @@
 - Git
 - Excel
 
-
+- ![Python](python_icon.png =16x16) Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
+- ![SQL](sql_icon.png =16x16) SQL (MySQL, PostgreSQL)
+- ![AirFlow](airflow_icon.png =16x16) AirFlow
+- ![viz](viz_icon.png =16x16) ReDash, Tableau
+- ![Git](git_icon.png =16x16) Git
+- ![Excel](excel_icon.png =16x16) Excel
   
 <!--
-- ![Python](python.svg) Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
-- ![Git](git.svg) Git
-- ![Excel](eexcel.svg) Excel
 
 - ![Python](python_icon.png) Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
 - ![SQL](sql_icon.png) SQL (MySQL, PostgreSQL)
