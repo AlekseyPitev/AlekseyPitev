@@ -23,9 +23,9 @@
 - Git
 - Excel
 
-- ![Python](python_icon.png) Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
-- ![Git](git_icon.png) Git
-- ![Excel](excel_icon.png) Excel
+- ![Python](python.svg) Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
+- ![Git](git.svg) Git
+- ![Excel](eexcel.svg) Excel
   
 <!--
 - ![Python](python_icon.png) Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
