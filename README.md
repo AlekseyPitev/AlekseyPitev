@@ -7,6 +7,7 @@
 
 | Название | Описание | Стек |
 |----------------------------|----------------------------------------------------------------------------------------------------|--------------------------------------|
+|[A/B-тестирование с дисбалансом групп](https://github.com/AlekseyPitev/AB-Test-w-group-imbalance)|Анализ результатов тестирования, проверка гипотез, создание функций расчёта метрик и построения барчартов||
 | [SmokingTrouble](https://github.com/AlekseyPitev/SmokingTrouble) | ноутбук соревнования на Kaggle: ML-задача классификации на предсказание курильщиков по клиническим показаниям |python: pandas, catboost, sklearn, matplotlib | 
 | [First-price-prediction](https://github.com/AlekseyPitev/SmokingTrouble) | ноутбук соревнования на Kaggle: ML-задача регрессии на предсказание цен на недвижимость в Мельбурне| python: pandas, catboost, matplotlib |
 | [rateam_loader](https://github.com/AlekseyPitev/rateam_loader) | Загрузчик данных с сайта rate.am в excel-файл | python: pandas, bs4 |
