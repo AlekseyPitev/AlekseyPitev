@@ -23,12 +23,12 @@
 - Git
 - Excel
 
-- ![Python](python_icon.png =16x16) Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
-- ![SQL](sql_icon.png =16x16) SQL (MySQL, PostgreSQL)
-- ![AirFlow](airflow_icon.png =16x16) AirFlow
-- ![viz](viz_icon.png =16x16) ReDash, Tableau
-- ![Git](git_icon.png =16x16) Git
-- ![Excel](excel_icon.png =16x16) Excel
+- <img src="python_icon.png" width="16" height="16"> Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
+- <img src="sql_icon.png" width="16" height="16"> SQL (MySQL, PostgreSQL)
+- <img src="airflow_icon.png" width="16" height="16"> AirFlow
+- <img src="viz_icon.png" width="16" height="16"> ReDash, Tableau
+- <img src="git_icon.png" width="16" height="16"> Git
+- <img src="excel_icon.png" width="16" height="16"> Excel
   
 <!--
 
