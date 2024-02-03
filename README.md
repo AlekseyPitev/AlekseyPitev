@@ -23,7 +23,8 @@
 - <img src="viz_icon.png" width="16" height="16"> ReDash, Tableau
 - <img src="git_icon.png" width="16" height="16"> Git
 - <img src="excel_icon.png" width="16" height="16"> Excel
-  
+
+  Смотрю каналы [karpov.courses](https://www.youtube.com/@karpovcourses/videos) и [Глеба Михайлова](https://www.youtube.com/@GlebMikhaylov/videos)
 <!--
 **AlekseyPitev/AlekseyPitev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
