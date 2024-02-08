@@ -19,6 +19,7 @@
 
 - <img src="python_icon.png" width="16" height="16"> Python (Pandas, Numpy, Scipy, Seaborn, Matplotlib, Catboost, Sklearn)
 - <img src="sql_icon.png" width="16" height="16"> SQL (MySQL, PostgreSQL)
+- <img src="clickhouse_icon.png" width="16" height="16"> ClickHouse
 - <img src="airflow_icon.png" width="16" height="16"> AirFlow
 - <img src="viz_icon.png" width="16" height="16"> ReDash, Tableau
 - <img src="git_icon.png" width="16" height="16"> Git
