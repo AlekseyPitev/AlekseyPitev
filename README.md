@@ -25,6 +25,11 @@
 - <img src="git_icon.png" width="16" height="16"> Git
 - <img src="excel_icon.png" width="16" height="16"> Excel
 
+### Контакты
+
+- Telegram: @AlexeyPitev
+- mail: pitevan@nxt.ru
+
   <!--
 **AlekseyPitev/AlekseyPitev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
