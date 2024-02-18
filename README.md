@@ -10,7 +10,7 @@
 |[A/B-тестирование с дисбалансом групп](https://github.com/AlekseyPitev/AB-Test-w-group-imbalance)|Анализ результатов тестирования, проверка гипотез, создание функций расчёта метрик и построения барчартов|python: pandas, numpy, scipy, seaborn, matplotlib, airflow|
 | [SmokingTrouble](https://github.com/AlekseyPitev/SmokingTrouble) | ноутбук соревнования на Kaggle: ML-задача классификации на предсказание курильщиков по клиническим показаниям |python: pandas, catboost, sklearn, matplotlib | 
 | [First-price-prediction](https://github.com/AlekseyPitev/First-price-prediction) | ноутбук соревнования на Kaggle: ML-задача регрессии на предсказание цен на недвижимость в Мельбурне| python: pandas, catboost, matplotlib |
-| [rateam_loader](https://github.com/AlekseyPitev/rateam_loader) | Загрузчик данных с сайта rate.am в excel-файл | python: pandas, bs4 |
+| [rateam_loader](https://github.com/AlekseyPitev/rateam_loader) | Загрузчик данных с сайта rate.am в excel-файл | python: pandas, requests, bs4 |
 
 Закончил курс "Аналитик данных" платформы Karpov Courses, в рамках которого работал с ClickHause, JupiterHub, AirFlow, Redash, Tableau, использовал Git для передачи фалов проектов. Также окончил ряд online курсов, [список сертификатов - здесь](https://github.com/AlekseyPitev/Certificates)  
 Высшее образование - Санкт-Петербургский государственный инженерно-экономический университет, по специальности математические методы в экономике и аспирантура там же.
